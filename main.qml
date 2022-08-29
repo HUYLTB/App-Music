@@ -3,6 +3,7 @@ import QtQuick.Window 2.15
 import "./View"
 import "./JsLibrary/libraryImg.js" as Img
 import "./JsLibrary/colorbutton.js" as Color
+//This is app trinh phat nhac
 Window {
     id:root
     width: 900
